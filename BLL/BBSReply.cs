@@ -14,7 +14,7 @@ namespace BBS.BLL
 	{
 		private readonly IBBSReply dal=DataAccess.CreateBBSReply();
 		public BBSReply()
-		{}
+		{ }
 		#region  BasicMethod
 
 		/// <summary>
